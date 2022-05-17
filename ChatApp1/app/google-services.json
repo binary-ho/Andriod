@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421351809867",
+    "project_id": "chatapp1-ca60b",
+    "storage_bucket": "chatapp1-ca60b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421351809867:android:6acca213454fca6a09bece",
+        "android_client_info": {
+          "package_name": "com.jinho.chat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421351809867-3qeh48u9kf8as0l4biv5kfqaekfhkn4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACV1yfJ8rlHuUqAMg5EW0inhH-VASMt7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421351809867-3qeh48u9kf8as0l4biv5kfqaekfhkn4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
